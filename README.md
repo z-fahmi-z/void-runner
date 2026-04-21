@@ -1,7 +1,7 @@
 ## Void Runner
 A simple and fun static web-app game to practice deployments with.
 
-[Play it Live now!](https://z-fahmi-z.github.io/void-runner/)
+<a href="https://z-fahmi-z.github.io/void-runner/" target="_blank">Play it Live now!</a>
 
 ### Demo
 
